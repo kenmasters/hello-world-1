@@ -1,2 +1,2 @@
 #featureB
-#featureB-1
+#featureB_1
