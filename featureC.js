@@ -4,3 +4,4 @@
 #featureC_4
 #featureC_5
 #featureC_6.A
+#featureC_6.B
